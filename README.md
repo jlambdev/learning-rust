@@ -2,7 +2,7 @@
 
 Walkthrough of https://doc.rust-lang.org/book
 
-Up to: https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html#comparing-the-guess-to-the-secret-number
+Up to: https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html
 
 ## Install (Mac)
 
